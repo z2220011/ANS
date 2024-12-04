@@ -20,3 +20,4 @@ git fetch origin               # リモートの最新情報を取得
 git checkout feature           # featureブランチに切り替え
 git merge origin/main          # mainブランチをマージ
 ```
+
